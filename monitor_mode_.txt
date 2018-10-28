@@ -1,0 +1,620 @@
+17:05:13.038766 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:13.054450 1.0 Mb/s 2447 MHz 11b -65dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.057416 1.0 Mb/s 2447 MHz 11b -69dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 6.0 9.0 12.0 18.0 Mbit]
+17:05:13.076050 1.0 Mb/s 2447 MHz 11b -70dBm signal antenna 1 Acknowledgment RA:04:02:1f:2a:f9:a4 (oui Unknown) 
+17:05:13.080044 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:13.081078 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.084754 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.086768 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.087086 1.0 Mb/s 2447 MHz 11b -65dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:13.088616 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.095209 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.100976 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.117255 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.119491 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:13.136473 1.0 Mb/s 2447 MHz 11b -68dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:13.138505 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 
+17:05:13.140323 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.141976 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:13.143278 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 
+17:05:13.146667 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 
+17:05:13.150266 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 
+17:05:13.176980 1.0 Mb/s 2447 MHz 11b -71dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.178568 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:13.195564 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:13.208167 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.210006 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.211780 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.216242 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.220287 1.0 Mb/s 2447 MHz 11b -71dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.221858 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:13.233174 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.238875 1.0 Mb/s 2447 MHz 11b -68dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:13.241176 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.248483 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.271420 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.273119 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.281936 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.285725 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:13.291808 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.297959 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:13.341290 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:13.363464 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Acknowledgment RA:08:63:61:98:48:e6 (oui Unknown) 
+17:05:13.398580 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.400372 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:13.439166 1.0 Mb/s 2447 MHz 11b -67dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.441704 1.0 Mb/s 2447 MHz 11b -67dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:13.443972 1.0 Mb/s 2447 MHz 11b -68dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:13.445905 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.451059 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.451377 1.0 Mb/s 2447 MHz 11b -68dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:13.459810 1.0 Mb/s 2447 MHz 11b -68dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.462061 1.0 Mb/s 2447 MHz 11b -68dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:13.462368 1.0 Mb/s 2447 MHz 11b -68dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:13.464145 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.466326 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.470607 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.472774 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.480345 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.484073 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:13.494179 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.496314 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.521366 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.532865 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.541148 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.543661 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.546241 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:13.548097 1.0 Mb/s 2447 MHz 11b -86dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.571621 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Probe Response (PLAY Internet 4G LTE-0DA7) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.573701 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.577409 1.0 Mb/s 2447 MHz 11b -63dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.581002 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.592932 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:13.594386 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.602138 1.0 Mb/s 2447 MHz 11b -69dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.603774 1.0 Mb/s 2447 MHz 11b -37dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:13.624157 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:13.630478 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.648515 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:13.658754 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.670648 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Acknowledgment RA:5c:e2:8c:17:97:13 (oui Unknown) 
+17:05:13.694880 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:13.696224 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.700600 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.707607 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:13.714092 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.731520 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.748535 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.750938 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:13.760878 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.768175 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.773370 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.773690 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:13.783951 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.800154 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Acknowledgment RA:06:18:d6:cd:85:02 (oui Unknown) 
+17:05:13.815376 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:13.817044 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.818351 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.827997 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.830392 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:13.847638 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.849033 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.850894 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.854891 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:13.857449 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Acknowledgment RA:04:02:1f:2a:f9:a4 (oui Unknown) 
+17:05:13.858983 1.0 Mb/s 2447 MHz 11b -69dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.864577 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.877820 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.878808 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.885051 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.893438 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.906741 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.912427 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:13.918232 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.948456 1.0 Mb/s 2447 MHz 11b -37dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:13.955754 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:13.964918 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:13.973110 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:13.975102 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:13.977106 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:13.986672 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:13.990830 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:14.010382 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:14.014839 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:14.027880 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:14.028196 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:14.030611 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:14.030928 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:14.033469 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:14.033797 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:14.039804 1.0 Mb/s 2447 MHz 11b -72dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.051121 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.053190 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.055440 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.058161 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:14.059934 1.0 Mb/s 2447 MHz 11b -70dBm signal antenna 1 Acknowledgment RA:4e:5e:0c:2c:4d:93 (oui Unknown) 
+17:05:14.062165 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Acknowledgment RA:44:80:eb:7a:a9:cf (oui Unknown) 
+17:05:14.072407 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.080759 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.086405 1.0 Mb/s 2447 MHz 11b -71dBm signal antenna 1 Acknowledgment RA:4e:5e:0c:2c:4d:93 (oui Unknown) 
+17:05:14.095022 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:14.099893 1.0 Mb/s 2447 MHz 11b -71dBm signal antenna 1 Acknowledgment RA:4e:5e:0c:2c:4d:93 (oui Unknown) 
+17:05:14.103551 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.111159 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.112551 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.117248 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:14.125197 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:14.137564 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:14.195916 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.202012 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.210345 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.219664 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:14.227096 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:14.239982 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:14.248206 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:14.270303 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.271948 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:14.285239 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:14.296751 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.304336 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.322078 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:14.342408 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:14.358720 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:14.366639 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.370370 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.378682 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.380135 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.387588 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.398019 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.399863 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.430974 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.444816 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:14.451833 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:14.467814 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:14.512580 1.0 Mb/s 2447 MHz 11b -85dBm signal antenna 1 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 6, PRIVACY
+17:05:14.526895 1.0 Mb/s 2447 MHz 11b -37dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:14.570225 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:14.577774 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.579753 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.581924 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.584132 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.587912 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.592812 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.616658 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:14.618010 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.629304 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:14.666290 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Acknowledgment RA:a4:ca:a0:48:e5:f7 (oui Unknown) 
+17:05:14.670116 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.672629 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:14.682132 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.705655 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.749237 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Acknowledgment RA:80:b0:3d:34:bd:fc (oui Unknown) 
+17:05:14.752530 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:14.754532 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Authentication (Open System)-2: 
+17:05:14.757735 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Authentication (Open System)-2: 
+17:05:14.761113 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Authentication (Open System)-2: 
+17:05:14.765585 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Authentication (Open System)-2: 
+17:05:14.767309 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Authentication (Open System)-2: 
+17:05:14.770400 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Authentication (Open System)-2: 
+17:05:14.775065 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:14.789680 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.795020 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Acknowledgment RA:38:43:7d:c8:00:0c (oui Unknown) 
+17:05:14.805899 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.806213 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:14.830370 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request (McD-Hotspot) [1.0 2.0 5.5 11.0 Mbit]
+17:05:14.834128 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:14.854441 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:14.861138 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:14.862906 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.869968 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.872744 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.873059 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:14.877464 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:14.912425 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.926411 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 6.0 9.0 11.0 12.0 18.0 Mbit]
+17:05:14.935959 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.938578 1.0 Mb/s 2447 MHz 11b -37dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:14.941972 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.948647 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:14.984803 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:14.993689 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Acknowledgment RA:00:12:2a:eb:a6:78 (oui Unknown) 
+17:05:14.999827 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 6.0 9.0 11.0 12.0 18.0 Mbit]
+17:05:15.002615 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Acknowledgment RA:00:12:2a:eb:a6:78 (oui Unknown) 
+17:05:15.006787 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Acknowledgment RA:38:43:7d:c8:00:0c (oui Unknown) 
+17:05:15.010756 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Acknowledgment RA:38:43:7d:c8:00:0c (oui Unknown) 
+17:05:15.016434 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.021717 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:15.032362 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 6.0 9.0 11.0 12.0 18.0 Mbit]
+17:05:15.038944 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:15.055721 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.075152 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Authentication (Open System)-1: Successful
+17:05:15.076131 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Authentication (Open System)-2: 
+17:05:15.077422 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:15.082271 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:15.083401 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Data IV:727050 Pad 20 KeyID 1
+17:05:15.084743 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Assoc Response AID(2) : PRIVACY : Successful
+17:05:15.086124 1.0 Mb/s 2447 MHz 11b -71dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.089900 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Data IV:777050 Pad 20 KeyID 1
+17:05:15.091006 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Data IV:787050 Pad 20 KeyID 1
+17:05:15.092131 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.097720 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Assoc Response AID(2) : PRIVACY : Successful
+17:05:15.103229 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.106054 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 6.0 9.0 11.0 12.0 18.0 Mbit]
+17:05:15.107650 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:15.114691 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.119134 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.121045 1.0 Mb/s 2447 MHz 11b -85dBm signal antenna 1 Probe Request (TP-LINK1) [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.122135 1.0 Mb/s 2447 MHz 11b -85dBm signal antenna 1 Probe Request (UPC247912974) [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.125519 1.0 Mb/s 2447 MHz 11b -37dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:15.129691 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:15.131158 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.137045 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:15.141359 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:15.143484 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.147723 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.151401 1.0 Mb/s 2447 MHz 11b -70dBm signal antenna 1 Acknowledgment RA:04:02:1f:2a:f9:a4 (oui Unknown) 
+17:05:15.165821 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.167651 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.169416 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.171332 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.176374 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.188541 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Data IV:7b7050 Pad 20 KeyID 1
+17:05:15.189704 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Data IV:7c7050 Pad 20 KeyID 1
+17:05:15.191073 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Data IV:7d7050 Pad 20 KeyID 1
+17:05:15.192262 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Data IV:7e7050 Pad 20 KeyID 1
+17:05:15.193504 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Data IV:7f7050 Pad 20 KeyID 1
+17:05:15.194914 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Data IV:807050 Pad 20 KeyID 1
+17:05:15.196208 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Data IV:817050 Pad 20 KeyID 1
+17:05:15.198640 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Data IV:837050 Pad 20 KeyID 1
+17:05:15.199830 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Data IV:847050 Pad 20 KeyID 1
+17:05:15.207074 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.215425 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.227154 1.0 Mb/s 2447 MHz 11b -62dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.231562 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.233800 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:15.235542 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.237340 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.241074 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.241388 1.0 Mb/s 2447 MHz 11b -63dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:15.243769 1.0 Mb/s 2447 MHz 11b -37dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:15.246054 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.253382 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 6.0 9.0 11.0 12.0 18.0 Mbit]
+17:05:15.254964 1.0 Mb/s 2447 MHz 11b -37dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:15.268448 1.0 Mb/s 2447 MHz 11b -58dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.287098 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:15.288427 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Data IV:857050 Pad 20 KeyID 1
+17:05:15.290926 1.0 Mb/s 2447 MHz 11b -61dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.292556 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:15.295598 1.0 Mb/s 2447 MHz 11b -60dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:15.311285 1.0 Mb/s 2447 MHz 11b -62dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.312855 1.0 Mb/s 2447 MHz 11b -36dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:15.313174 1.0 Mb/s 2447 MHz 11b -65dBm signal antenna 1 Acknowledgment RA:44:80:eb:7a:a9:cf (oui Unknown) 
+17:05:15.331581 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.333887 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:15.335871 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Acknowledgment RA:80:b0:3d:34:bd:fc (oui Unknown) 
+17:05:15.336904 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Action (a8:7c:01:6f:72:c5 (oui Unknown)): BA ADDBA Request
+17:05:15.337222 1.0 Mb/s 2447 MHz 11b -85dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:15.341047 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Action (a8:7c:01:6f:72:c5 (oui Unknown)): BA ADDBA Request
+17:05:15.343026 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 EAPOL key (3) v2, len 95
+17:05:15.350449 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 EAPOL key (3) v2, len 95
+17:05:15.352608 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 EAPOL key (3) v2, len 95
+17:05:15.359249 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 BAR RA:80:b0:3d:34:bd:fc (oui Unknown) TA:a8:7c:01:6f:72:c5 (oui Unknown) CTL(4) SEQ(16) 
+17:05:15.359710 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 BA RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:15.377185 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.389520 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:15.397010 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.399115 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.402957 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.407098 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.415667 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.448593 1.0 Mb/s 2447 MHz 11b -51dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:15.474012 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Probe Request (**Pasaz Grunwaldzki free WiFi**) [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.491923 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:15.516760 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:15.540051 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:15.543104 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Probe Response (PLAY Internet 4G LTE-0DA7) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.543410 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Acknowledgment RA:7c:11:cb:5f:0d:a7 (oui Unknown) 
+17:05:15.544998 1.0 Mb/s 2447 MHz 11b -86dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.551009 1.0 Mb/s 2447 MHz 11b -32dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:15.581667 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:15.584314 1.0 Mb/s 2447 MHz 11b -86dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.589052 1.0 Mb/s 2447 MHz 11b -85dBm signal antenna 1 Probe Response (AUTORSKA) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] CH: 6
+17:05:15.594332 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:15.653412 1.0 Mb/s 2447 MHz 11b -32dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:15.658043 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.673737 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:15.696745 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:15.715767 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Beacon (AUTORSKA) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 6
+17:05:15.728913 1.0 Mb/s 2447 MHz 11b -85dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 6.0 9.0 12.0 18.0 Mbit]
+17:05:15.732037 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Acknowledgment RA:04:02:1f:2a:f9:a4 (oui Unknown) 
+17:05:15.764922 1.0 Mb/s 2447 MHz 11b -87dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:15.767379 1.0 Mb/s 2447 MHz 11b -85dBm signal antenna 1 Beacon (INTRANET-WRO1) [1.0* 2.0* 5.5* 11.0* 6.0* 9.0 12.0* 18.0 Mbit] ESS CH: 6, PRIVACY
+17:05:15.779590 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.798604 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.804289 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.808845 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.811358 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.815130 1.0 Mb/s 2447 MHz 11b -32dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:15.840646 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.842778 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.852241 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.858235 1.0 Mb/s 2447 MHz 11b -31dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:15.894573 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.902408 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:15.915826 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.960645 1.0 Mb/s 2447 MHz 11b -33dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:15.974329 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:15.982195 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.004292 1.0 Mb/s 2447 MHz 11b -87dBm signal antenna 1 Acknowledgment RA:38:43:7d:c8:00:0c (oui Unknown) 
+17:05:16.012895 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.023381 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.025795 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.051654 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.064400 1.0 Mb/s 2447 MHz 11b -32dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:16.073312 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.078282 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.098374 1.0 Mb/s 2447 MHz 11b -32dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.103655 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:16.106364 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:16.112712 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.114443 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.118592 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.135824 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.140165 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.147741 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.151854 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.162294 1.0 Mb/s 2447 MHz 11b -50dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.173262 1.0 Mb/s 2447 MHz 11b -46dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.174878 1.0 Mb/s 2447 MHz 11b -32dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.175196 1.0 Mb/s 2447 MHz 11b -49dBm signal antenna 1 Acknowledgment RA:44:80:eb:7a:a9:cf (oui Unknown) 
+17:05:16.180719 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.183946 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.186075 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.200435 1.0 Mb/s 2447 MHz 11b -33dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.208784 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:16.220625 1.0 Mb/s 2447 MHz 11b -32dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.227759 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:16.238243 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:16.240303 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:16.254353 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.264841 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.265157 1.0 Mb/s 2447 MHz 11b -55dBm signal antenna 1 Acknowledgment RA:44:80:eb:7a:a9:cf (oui Unknown) 
+17:05:16.267880 1.0 Mb/s 2447 MHz 11b -33dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:16.276998 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:16.281105 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:16.283262 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:16.285252 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:16.292357 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.303940 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.306790 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Acknowledgment RA:38:43:7d:c8:00:0c (oui Unknown) 
+17:05:16.311199 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:16.313322 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.327856 1.0 Mb/s 2447 MHz 11b -32dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.357391 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.358813 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.366100 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.370293 1.0 Mb/s 2447 MHz 11b -33dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:16.374074 1.0 Mb/s 2447 MHz 11b -33dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.378070 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.380654 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+17:05:16.388217 1.0 Mb/s 2447 MHz 11b -71dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.407692 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.409608 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Acknowledgment RA:54:e6:fc:e8:51:2a (oui Unknown) 
+17:05:16.413620 1.0 Mb/s 2447 MHz 11b -71dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:16.416052 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Data IV:867050 Pad 20 KeyID 1
+17:05:16.417755 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.422146 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.434446 1.0 Mb/s 2447 MHz 11b -69dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.436049 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.439994 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.457650 1.0 Mb/s 2447 MHz 11b -70dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.461004 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.461314 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:16.461651 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Acknowledgment RA:00:18:0a:79:8b:1d (oui Unknown) 
+17:05:16.465942 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Request (KFC Hotspot) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.467408 1.0 Mb/s 2447 MHz 11b -71dBm signal antenna 1 Acknowledgment RA:4c:5e:0c:2c:4d:93 (oui Unknown) 
+17:05:16.472703 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:16.494882 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.497590 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.501471 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.503193 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.517367 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:16.523656 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:16.532918 1.0 Mb/s 2447 MHz 11b -69dBm signal antenna 1 
+17:05:16.535175 1.0 Mb/s 2447 MHz 11b -85dBm signal antenna 1 
+17:05:16.544646 1.0 Mb/s 2447 MHz 11b -69dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:16.546216 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.548586 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 
+17:05:16.549336 1.0 Mb/s 2447 MHz 11b -72dBm signal antenna 1 
+17:05:16.550091 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 
+17:05:16.550841 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 
+17:05:16.551595 1.0 Mb/s 2447 MHz 11b -72dBm signal antenna 1 
+17:05:16.552349 1.0 Mb/s 2447 MHz 11b -72dBm signal antenna 1 
+17:05:16.553103 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 
+17:05:16.554781 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Request (KFC Hotspot) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.559281 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request (KFC Hotspot) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.568654 1.0 Mb/s 2447 MHz 11b -68dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:16.575136 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:16.589566 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:16.597057 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.605731 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Probe Request (KFC Hotspot) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.613668 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:16.618444 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:16.628385 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.654385 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Acknowledgment RA:4e:5e:0c:2c:4d:93 (oui Unknown) 
+17:05:16.662533 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Acknowledgment RA:4c:5e:0c:2c:4d:93 (oui Unknown) 
+17:05:16.671014 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.697828 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.704542 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.708706 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.710496 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Request (pole_namiotowe) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.711696 1.0 Mb/s 2447 MHz 11b -72dBm signal antenna 1 Probe Request (guest) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.720848 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:16.729118 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Request (guest) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.730303 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.736715 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:16.739164 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:16.757068 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Beacon (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.774942 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Acknowledgment RA:4e:5e:0c:2c:4d:93 (oui Unknown) 
+17:05:16.779929 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:16.782525 1.0 Mb/s 2447 MHz 11b -87dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.786020 1.0 Mb/s 2447 MHz 11b -60dBm signal antenna 1 Probe Request (pole_namiotowe) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.787249 1.0 Mb/s 2447 MHz 11b -59dBm signal antenna 1 Probe Request (guest) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.791323 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:16.794390 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:16.797427 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:16.809235 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.810208 1.0 Mb/s 2447 MHz 11b -58dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:16.811385 1.0 Mb/s 2447 MHz 11b -58dBm signal antenna 1 Probe Request (pole_namiotowe) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.812734 1.0 Mb/s 2447 MHz 11b -58dBm signal antenna 1 Probe Request (guest) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.823261 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:16.826635 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Acknowledgment RA:4e:5e:0c:2c:4d:93 (oui Unknown) 
+17:05:16.828038 1.0 Mb/s 2447 MHz 11b -58dBm signal antenna 1 Probe Request (guest) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.829224 1.0 Mb/s 2447 MHz 11b -58dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.834008 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:16.839171 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.842643 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:16.842958 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:16.846370 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.848160 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.852989 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.859146 1.0 Mb/s 2447 MHz 11b -64dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.861905 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:16.865423 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.882347 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:16.902750 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Request (guest) [1.0 2.0 5.5 11.0 Mbit]
+17:05:16.925660 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:16.951202 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.954817 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.956718 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:16.961757 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Beacon (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+17:05:16.972255 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Data IV:3b67e7 Pad 20 KeyID 2
+17:05:17.028071 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:17.087167 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:17.127805 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Response (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+17:05:17.130476 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:17.161874 24.0 Mb/s 2447 MHz 11g -75dBm signal antenna 1 Acknowledgment RA:e0:76:d0:07:18:d6 (oui Unknown) 
+17:05:17.162101 24.0 Mb/s 2447 MHz 11g -78dBm signal antenna 1 Acknowledgment RA:e0:76:d0:07:18:d6 (oui Unknown) 
+17:05:17.166443 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Beacon (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+17:05:17.178308 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:17.184279 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Response (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+17:05:17.187769 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Probe Response (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+17:05:17.190743 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:17.195990 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Response (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+17:05:17.200438 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.204834 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.212598 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.218434 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Response (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+17:05:17.221831 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Response (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+17:05:17.228865 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.230515 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:17.232895 1.0 Mb/s 2447 MHz 11b -72dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:17.257252 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.259359 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.281571 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:17.285918 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Response (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+17:05:17.321634 1.0 Mb/s 2447 MHz 11b -35dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:17.335301 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:17.361151 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.373387 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.378270 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Response (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] CH: 6, PRIVACY
+17:05:17.396495 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.401890 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.419440 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.437709 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:17.448306 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:17.452719 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Acknowledgment RA:68:7f:74:2f:54:f7 (oui Unknown) 
+17:05:17.473476 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Beacon (TP-LINK_706E) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 6, PRIVACY
+17:05:17.490257 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Probe Response (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] CH: 9
+17:05:17.512865 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.517122 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:17.527487 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.530452 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Beacon (PLAY Internet 4G LTE-0DA7) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:17.532600 1.0 Mb/s 2447 MHz 11b -58dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.540726 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Acknowledgment RA:ac:a2:13:b6:98:eb (oui Unknown) 
+17:05:17.546048 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:17.548287 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.548600 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:17.550792 1.0 Mb/s 2447 MHz 11b -59dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.558777 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.561442 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.564280 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.566472 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:17.568258 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.568573 1.0 Mb/s 2447 MHz 11b -83dBm signal antenna 1 Acknowledgment RA:a8:7c:01:6f:72:c5 (oui Unknown) 
+17:05:17.571206 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.577970 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.578281 1.0 Mb/s 2447 MHz 11b -50dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:17.582965 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Acknowledgment RA:d0:ff:98:4b:09:35 (oui Unknown) 
+17:05:17.593617 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.595669 1.0 Mb/s 2447 MHz 11b -59dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.599221 1.0 Mb/s 2447 MHz 11b -48dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:17.603418 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.603734 1.0 Mb/s 2447 MHz 11b -58dBm signal antenna 1 Acknowledgment RA:1c:67:58:91:18:1f (oui Unknown) 
+17:05:17.612499 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.617973 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.625963 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.629800 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.636534 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.639496 1.0 Mb/s 2447 MHz 11b -68dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.642528 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:17.649618 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.651477 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.657244 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Acknowledgment RA:06:18:d6:cd:85:02 (oui Unknown) 
+17:05:17.666688 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Acknowledgment RA:64:70:02:f1:8f:66 (oui Unknown) 
+17:05:17.686754 1.0 Mb/s 2447 MHz 11b -72dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.701631 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:17.738811 1.0 Mb/s 2447 MHz 11b -84dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.744957 1.0 Mb/s 2447 MHz 11b -72dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:17.769137 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Acknowledgment RA:38:43:7d:c8:00:0c (oui Unknown) 
+17:05:17.790358 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:17.797255 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:17.821478 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:17.837685 1.0 Mb/s 2447 MHz 11b -82dBm signal antenna 1 Beacon (PLAY Internet 4G LTE-0DA7) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:17.842218 1.0 Mb/s 2447 MHz 11b -81dBm signal antenna 1 Probe Request () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit]
+17:05:17.847352 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:17.857738 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:17.889325 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.908765 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:17.928908 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:17.949776 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Beacon (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] ESS CH: 8, PRIVACY
+17:05:17.950987 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Data IV:887050 Pad 20 KeyID 1
+17:05:17.952371 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Data IV:897050 Pad 20 KeyID 1
+17:05:17.955027 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:8b7050 Pad 20 KeyID 1
+17:05:17.957358 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:8c7050 Pad 20 KeyID 1
+17:05:17.958705 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:8d7050 Pad 20 KeyID 1
+17:05:17.959892 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Data IV:8e7050 Pad 20 KeyID 1
+17:05:17.961156 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:8f7050 Pad 20 KeyID 1
+17:05:17.962559 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Data IV:907050 Pad 20 KeyID 1
+17:05:17.963897 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Data IV:917050 Pad 20 KeyID 1
+17:05:17.965035 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:927050 Pad 20 KeyID 1
+17:05:17.966344 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:937050 Pad 20 KeyID 1
+17:05:17.967526 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:947050 Pad 20 KeyID 1
+17:05:17.968760 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Data IV:957050 Pad 20 KeyID 1
+17:05:17.970112 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:967050 Pad 20 KeyID 1
+17:05:17.971424 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:977050 Pad 20 KeyID 1
+17:05:17.972603 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Data IV:987050 Pad 20 KeyID 1
+17:05:17.973980 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:997050 Pad 20 KeyID 1
+17:05:17.975175 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:9a7050 Pad 20 KeyID 1
+17:05:17.977506 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.980077 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.983041 1.0 Mb/s 2447 MHz 11b -76dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.986719 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:17.989595 1.0 Mb/s 2447 MHz 11b -72dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 6.0 9.0 12.0 18.0 Mbit]
+17:05:18.005645 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:18.029161 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+17:05:18.034881 1.0 Mb/s 2447 MHz 11b -75dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 6.0 9.0 12.0 18.0 Mbit]
+17:05:18.037738 1.0 Mb/s 2447 MHz 11b -78dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:18.046194 1.0 Mb/s 2447 MHz 11b -80dBm signal antenna 1 Probe Response (Freshpoint_WiFi) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] CH: 6, PRIVACY
+17:05:18.053492 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Data IV:9b7050 Pad 20 KeyID 1
+17:05:18.055828 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:18.058411 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:18.061403 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:18.074271 1.0 Mb/s 2447 MHz 11b -77dBm signal antenna 1 Probe Request () [1.0 2.0 5.5 11.0 Mbit]
+17:05:18.085718 1.0 Mb/s 2447 MHz 11b -73dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:18.088778 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:18.091379 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:18.094092 1.0 Mb/s 2447 MHz 11b -74dBm signal antenna 1 Probe Response (rodzice) [1.0* 2.0* 5.5 11.0 18.0 24.0 36.0 54.0 Mbit] CH: 8, PRIVACY
+17:05:18.111277 1.0 Mb/s 2447 MHz 11b -34dBm signal antenna 1 Beacon (grunwald wifi) [1.0* 2.0* 5.5* 11.0* Mbit] ESS CH: 9
+17:05:18.131573 1.0 Mb/s 2447 MHz 11b -79dBm signal antenna 1 Beacon (AndroidAP) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 6, PRIVACY
+
