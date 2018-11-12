@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#root {
+  width: 900px;
+  margin: 100px auto;
+}
+
+#menu {
+  padding: 30px 0;
+}
+#menu > a {
+  margin-right: 20px;
+}
