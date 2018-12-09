@@ -1,3 +1,3 @@
 <?php
-include("mustlogin.php");
+include("register.php");
 ?>
