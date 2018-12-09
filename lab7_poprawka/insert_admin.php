@@ -1,12 +1,8 @@
 <?php
-//  Initialize the session
+// Initialize the session
 session_start();
  
-// Check if the user is logged in, if not then redirect him to login page
-if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
-    header("location: login.php");
-    exit;
-}
+
 
 /* Attempt to connect to MySQL database */
 $link2 = mysqli_connect('localhost', 'mysql_user', 'tajnehaslo', 'lab6');
@@ -17,19 +13,19 @@ if($link2 === false){
 }
 
 
-
+$user_t = $_POST['user'];
 $account_number = $_POST['account_number'];
 $value = $_POST['value'];
 
-if (!$account_number || !$value) {
+if (!$account_number || !$value || $user_t ) {
 echo "Some values of fields are null";
 }
 
-
+$user_t = addslashes($user_t );
 $account_number = addslashes($account_number);
 $value = doubleval($value);
 
-$user_t = addslashes($_SESSION["username"]);
+
 
 
 $my_quer = "insert into transact (autor, account_number, value) values ('".$user_t."','".$account_number."',".$value.")";
