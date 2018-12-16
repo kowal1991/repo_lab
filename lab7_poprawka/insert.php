@@ -2,7 +2,32 @@
 // Initialize the session
 session_start();
  
+// Check if the user is logged in, if not then redirect him to login page
+if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
+    header("location: login.php");
+    exit;
+}
 
+if (isset($_GET['id2'])){
+  $id2 = $_GET['id2'];
+  
+  /* Setup the connection to the database */
+  $mysqli2 = new mysqli('localhost', 'mysql_user', 'tajnehaslo', 'lab6');
+  
+  /* Check connection before executing the SQL query */
+  if ($mysqli2->connect_errno) {
+    printf("Connect failed: %s\n", $mysqli2->connect_error);
+    exit();
+  }
+  
+  /* SQL query vulnerable to SQL injection */
+  $sql2 = "SELECT *
+      FROM transact
+      WHERE id = $id2"; 
+  
+  /* Select queries return a result */
+ $result2 = $mysqli2->multi_query($sql2);
+}
 
 /* Attempt to connect to MySQL database */
 $link2 = mysqli_connect('localhost', 'mysql_user', 'tajnehaslo', 'lab6');
@@ -13,27 +38,31 @@ if($link2 === false){
 }
 
 
-$user_t = $_POST['user'];
+
 $account_number = $_POST['account_number'];
 $value = $_POST['value'];
+$metoda_szukania = $_POST['metoda_szukania'];
 
-if (!$account_number || !$value || $user_t ) {
+if (!$account_number || !$value) {
 echo "Some values of fields are null";
 }
 
-$user_t = addslashes($user_t );
+
 $account_number = addslashes($account_number);
 $value = doubleval($value);
 
+$user_t = addslashes($_SESSION["username"]);
 
-
-
-$my_quer = "insert into transact (autor, account_number, value, status) values ('".$user_t."','".$account_number."',".$value.",1)";
-
-if (isset($_GET['user2']) &&  isset($_GET['account']) && isset($_GET['value2']))
+if($metoda_szukania =="yes")
 {
-	$my_quer = "insert into transact (autor, account_number, value, status) values ('".$_GET['user2']."','".$_GET['account']."',".$_GET['value2'].",1)";
+
+$my_quer = "insert into transact (autor, account_number, value, status) values ('".$user_t."','".$account_number."',".$value.", 1)";
 }
+else
+{
+$my_quer = "insert into transact (autor, account_number, value, status) values ('".$user_t."','".$account_number."',".$value.", 0)";
+}
+
         if($stmt = mysqli_prepare($link2, $my_quer)){
            
             // Attempt to execute the prepared statement

