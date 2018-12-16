@@ -1,0 +1,20 @@
+<VirtualHost 0.0.0.0:443>
+
+    DocumentRoot /var/www/html
+    ServerName localhost
+
+    # enable ssl
+    SSLEngine on
+    SSLOptions +StdEnvVars
+    SSLCipherSuite ALL:!ADH:!EXPORT56:RC4+RSA:+HIGH:+MEDIUM:+LOW:+SSLv2:+EXP:+eNULL
+    SSLCertificateFile /opt/edoceo/etc/ssl/host.bank.crt
+    SSLCertificateKeyFile /opt/edoceo/etc/ssl/host.bank.key-open
+
+    # this location requires client cert 
+    <Location /client-certificate-required-here>
+        SSLRequireSSL
+        SSLRequire %{SSL_CLIENT_S_DN_O} eq "MojBank, Inc." and %{SSL_CLIENT_S_DN_OU} in {"Internet Engineering"}
+        SSLVerifyClient require
+        SSLVerifyDepth  1
+    </Location>
+</VirtualHost>
